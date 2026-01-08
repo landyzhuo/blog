@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://landyzhuo.vercel.app</id>
+    <title>玖岚啬の站</title>
+    <updated>2026-01-08T18:35:45.691Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://landyzhuo.vercel.app"/>
+    <link rel="self" href="https://landyzhuo.vercel.app/atom.xml"/>
+    <subtitle>我是一只蓝色的变色龙~</subtitle>
+    <logo>https://landyzhuo.vercel.app/images/avatar.png</logo>
+    <icon>https://landyzhuo.vercel.app/favicon.ico</icon>
+    <rights>All rights reserved 2026, 玖岚啬の站</rights>
+    <entry>
+        <title type="html"><![CDATA[资源列表]]></title>
+        <id>https://landyzhuo.vercel.app/post/resources/</id>
+        <link href="https://landyzhuo.vercel.app/post/resources/">
+        </link>
+        <updated>2025-11-19T11:38:29.000Z</updated>
+        <summary type="html"><![CDATA[<p>不用看了！你们需要的东西都在这里~</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>不用看了！你们需要的东西都在这里~</p>
+<!-- more -->
+<h2 id="认知科学">认知科学</h2>
+<h3 id="书籍">书籍</h3>
+<p>待添加...</p>
+<h3 id="论文">论文</h3>
+<p>待添加...</p>
+<h3 id="moocs">MOOCs</h3>
+<h4 id="微积分-浙江大学">微积分 - 浙江大学</h4>
+<p><strong>链接（第一部分）</strong>: <a href="https://www.icourse163.org/course/ZJU-1003315004">https://www.icourse163.org/course/ZJU-1003315004</a><br>
+<strong>链接（第二部分）</strong>: <a href="https://www.icourse163.org/course/ZJU-1003308005">https://www.icourse163.org/course/ZJU-1003308005</a><br>
+<strong>链接（第三部分）</strong>: <a href="https://www.icourse163.org/course/ZJU-1003376003">https://www.icourse163.org/course/ZJU-1003376003</a></p>
+<p><strong>内容描述</strong>：记住：数学非常重要！不会数学的话后面的路不会走的非常顺！之前上过浙大翁恺老师的Java课，觉得浙大总体的教育水平应该不错。随便瞄了一眼课程评价，发现这苏德矿也并非等闲之辈。评论区中都将苏德矿老师称为“矿爷”，并反馈说他的课程充满了生动形象的描述，仿佛让数学“动起来了”。</p>
+<h4 id="understanding-the-brain-the-neurobiology-of-everyday-life-the-university-of-chicago">Understanding the Brain: The Neurobiology of Everyday Life - The University of Chicago</h4>
+<p><strong>链接</strong>: <a href="https://www.coursera.org/learn/neurobiology">https://www.coursera.org/learn/neurobiology</a></p>
+<p><strong>内容描述</strong>：非常棒的神经科学入门课程！之前打Brain Bee是用过的准备材料。上完这门课后大概能有一个所谓的蓝图并且可以选择一个方向去深入研究。</p>
+<h4 id="bayesian-statistics-specialization-university-of-california-santa-cruz">Bayesian Statistics Specialization - University of California, Santa Cruz</h4>
+<p><strong>链接</strong>: <a href="https://www.coursera.org/specializations/bayesian-statistics">https://www.coursera.org/specializations/bayesian-statistics</a></p>
+<p><strong>内容描述</strong>：嗯没错我的确非常喜欢Coursera。其实计算认知科学的核心在我看来就是贝叶斯。如果能把贝叶斯以及与其相关的进阶知识学会的话会对后面有很大的帮助。别看UCSC这学校不怎么样，他们在认知科学的领域还真的有一点点说法！</p>
+<h3 id="其他学习资料">其他学习资料</h3>
+<h4 id="getting-started-in-cognitive-science-sam-gershman">Getting started in cognitive science - Sam Gershman</h4>
+<p><strong>链接</strong>: <a href="https://gershmanlab.com/docs/Getting_started_cogsci.pdf">https://gershmanlab.com/docs/Getting_started_cogsci.pdf</a></p>
+<p><strong>内容描述</strong>：由哈佛教授撰写的一个非常棒的认知科学入门指南。包含了多本经典的书籍，并且指明了每个领域分别需要学习的内容。在我看来，这是我见过最好的认知科学入门者的起始点。</p>
+<h4 id="womenincocosci">womenincocosci</h4>
+<p><strong>链接</strong>: <a href="https://womenincocosci.com/cocosci.html">https://womenincocosci.com/cocosci.html</a></p>
+<p><strong>内容描述</strong>：虽然看不出和女性有什么关系，但是里面的内容非常棒。包含了很多个计算认知科学实验室以及许多入门指南。在学习认知科学的过程中，我发现关注一些大牛的实验室以及他们的出版内容能让你对一个特定的方向有个更加全面的概念。</p>
+<h2 id="机器学习人工智能">机器学习/人工智能</h2>
+<p>待添加...</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://landyzhuo.vercel.app/post/about/</id>
+        <link href="https://landyzhuo.vercel.app/post/about/">
+        </link>
+        <updated>2025-11-18T14:14:21.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
+</blockquote>
+<h2 id="关于本站">🏠 关于本站</h2>
+<p>本站为博主的技术博客。平时除了发点与技术相关的内容，还会发一些生活动态以及看法...</p>
+<h2 id="关于我-我的征程">🧠 关于我 &amp; 我的征程</h2>
+<p>我是一只对世界充满好奇的蓝色变色龙🦎。</p>
+<p>目前，我正处于高三这个人生十字路口，并已申请了美国与英国的本科。我的兴趣轨迹发生了一次奇妙的“转向”：从充满逻辑与确定的计算机世界，游向了更为复杂而迷人的人类心智领域——<strong>认知科学</strong>。</p>
+<p>我尤其着迷于<strong>学习机制</strong>——这个关于我们如何获取知识、塑造思维的底层密码。我的长期目标是进入学术界，在美国或荷兰攻读<strong>计算认知科学</strong>博士，希望能用计算模型来理解和模拟人类的学习与认知过程。</p>
+<h2 id="栖息地与爱好">🌿 栖息地与爱好</h2>
+<p>当我不在代码和文献中潜水时，我最爱回归大自然。</p>
+<ul>
+<li><strong>跑步</strong>：在步道上感受风与呼吸，是理清思绪的最佳方式。</li>
+<li><strong>收集落叶</strong>：我有个浪漫的小习惯——捡拾形状各异的落叶，它们是季节写给大地的信笺。</li>
+</ul>
+<h2 id="找到我的踪迹">📬 找到我的踪迹</h2>
+<p>如果你想与我交流认知科学、学习机制，或者只是分享一片好看的叶子，都非常欢迎！以下是我常出没的地方：</p>
+<ul>
+<li>📧 邮箱：landy_zhuo@outlook.com (期待你的来信)</li>
+<li>📸 Instagram：@landyzhuo_ (这里记录了我的生活与发现)</li>
+<li>📕 小红书：玖岚啬 (这里我是留学中介)</li>
+</ul>
+]]></content>
+    </entry>
+</feed>
